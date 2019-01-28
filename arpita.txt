@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS\Desktop\git123
+
+28-01-2019  10:03    <DIR>          .
+28-01-2019  10:03    <DIR>          ..
+25-01-2019  17:08               475 abc.txt
+25-01-2019  17:19               521 abcd.txt
+25-01-2019  16:48               341 anu.txt
+25-01-2019  16:59               389 anusha.txt
+28-01-2019  10:03                 0 arpita.txt
+25-01-2019  17:06                 2 git
+28-01-2019  09:52               614 karthu.txt
+25-01-2019  17:24                 2 sdgfjhb
+               8 File(s)          2,344 bytes
+               2 Dir(s)  29,058,048,000 bytes free
